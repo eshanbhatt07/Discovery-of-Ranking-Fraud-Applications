@@ -1,0 +1,2 @@
+# Discovery-of-Ranking-Fraud-Applications
+In this project; we identify the potential malicious applications in a social networking environment(Facebook used as an example in this project). These applications are identified based on three parameters; ratings, reviews and outgoing URLS. Here we use sentimental analysis in order to understand the impact of the reviews for a particular user. We have used C#, SQL , HTML and Javascript along with CSS and ASP.net 
